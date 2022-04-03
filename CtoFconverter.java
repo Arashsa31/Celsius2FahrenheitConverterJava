@@ -31,7 +31,7 @@ public class CtoFconverter
 	    // repeats what the user entered 	    
 	    System.out.print("You entered the current temperature as " + cTemp + " degrees in Celsius.\n");
 	    
-		//use the conversion formula to convert Fahrenheit temperature to Celsius temperature
+		//use the conversion formula to convert Celsius temperature to Fahrenheit temperature
 		fTemp = 9.0/5.0*cTemp+32.0;
 	    
 	    // prints the converted temperature fTemp to the user
