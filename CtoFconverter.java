@@ -19,7 +19,7 @@ public class CtoFconverter
 		// declare variables
 		double fTemp, cTemp;
 		
-		// creates scanner object
+		// creates object scanner
 		Scanner keyboard = new Scanner(System.in);
 		
 		// asks for the user input
